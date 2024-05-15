@@ -1,0 +1,45 @@
+#__PrivCrochet_version:1
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 458,262
+__PrivCrochet_tags: 
+title: Start
+---
+<<bg(0)>>
+Main character: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia fringilla ullamcorper. Vestibulum at placerat urna, vel suscipit ex. Etiam ornare gravida purus, ut feugiat ligula lobortis id. Aenean scelerisque eros at metus fringilla, a ultricies turpi?
+    -> Lorem ipsum dolor 
+        Main character: Let's go
+        <<jump Option A>>
+    -> Fragrance store
+        Main character: Let's goedskcnkzsnc
+        <<jump Option B>>
+    -> sit amet, consectetur adipiscing elit.
+        Main character: Let's goalsxpmapoxmpox
+        <<jump Option C>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 827,23
+__PrivCrochet_tags: 
+title: Option A
+---
+Me: This is the bathroom.
+Boy: Wow!
+<<jump Start>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 832,257
+__PrivCrochet_tags: 
+title: Option B
+---
+Me: This is the classroom.
+Boy: Wow!
+<<jump Start>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 851,492
+__PrivCrochet_tags: 
+title: Option C
+---
+Me: This is the musicroom.
+Boy: Wow!
+<<jump Start>>
+===
